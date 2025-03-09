@@ -25,3 +25,33 @@ nav > a {
     text-decoration: none;
     color: black;
 }
+
+.banner-img {
+    height: 500px;
+    border: 1px solid;
+}
+
+.profile-content {
+    height: 500px;
+    border: 1px solid;
+    text-align: center;
+    align-content: center;
+}
+
+.background-content {
+    height: 500px;
+    border: 1px solid;
+    text-align: center;
+    align-content: center;
+}
+
+.message-content {
+    height: 500px;
+    border: 1px solid;
+    text-align: center;
+    align-content: center;
+}
+
+footer {
+    text-align: center;
+}
